@@ -1,1 +1,4 @@
 this file willl contain collaborating charity details
+Row1-name
+Row2-date
+Row3-Amount
